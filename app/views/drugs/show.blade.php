@@ -1,0 +1,1 @@
+C:\Users\athmin\Desktop\projects\madawa\app/views/drugs/show.blade.php
